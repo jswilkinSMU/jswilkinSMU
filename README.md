@@ -71,4 +71,4 @@ Feel free to reach out or connect with me through the following platforms:
 
 ---
 
-Thank you for visiting my profile! Let’s build something amazing together. 🚀
+Thank you for visiting my profile!
