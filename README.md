@@ -20,9 +20,9 @@ I'm a game programmer with a background in computer science and animation, curre
 
 ## 🎮 Projects
 
-### 🕹️ Doomenstein *(Solo Project)*
+### 🕹️ Starship *(Solo Project)*
 - Developed using a personal game engine
-- Focused on procedural systems and core gameplay mechanics
+- Focused on procedural systems and core gameplay mechanics/physics
 
 ### 🧠 Escape Through the Wire *(Team Project)*
 - Stealth-strategy game where the player acts as the “man in the chair”
