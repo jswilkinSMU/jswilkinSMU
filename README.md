@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**jswilkinSMU/jswilkinSMU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Hi, I'm Jacob Wilkin!
 
 Welcome to my GitHub profile! I'm **Jacob Wilkin**, a passionate [your role, e.g., "Software Developer," "Web Designer," "Data Scientist"] dedicated to creating meaningful projects and solving challenging problems. I love using technology to bring ideas to life and continuously strive to learn and grow in my field.
