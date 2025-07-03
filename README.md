@@ -58,8 +58,4 @@ Feel free to reach out at **jscottwilkin@gmail.com** — I’m always open to co
 
 ---
 
-Thanks for stopping by! 🚀
-
----
-
 Thank you for visiting my profile! Let’s build something amazing together. 🚀
