@@ -35,27 +35,6 @@ I'm a game programmer with a background in computer science and animation, curre
 - Role: Lead Programmer
 - Team Size: 4 Developers
 
-## 🎯 Design Philosophy
-
-I believe great games emerge from the intersection of **systemic depth** and **player intuition**. My design philosophy centers on:
-
-- **Empowering player agency** through mechanics that reward experimentation and strategic thinking
-- **Designing tools for designers**, enabling rapid iteration and creative freedom
-- **Balancing complexity with clarity**, so systems feel rich but never overwhelming
-- **Creating emotional resonance** through gameplay, not just narrative
-
-Games should feel like living systems—responsive, expressive, and full of possibility.
-
-## 🚀 Future Goals
-
-As I continue to grow as a developer, I’m aiming to:
-
-- **Join a studio** where I can contribute to gameplay and systems programming on ambitious titles
-- **Develop my own engine** with modular AI and procedural generation frameworks
-- **Explore emerging tech** like machine learning in game design and player modeling
-- **Mentor junior developers** and foster inclusive, collaborative team environments
-- **Speak at conferences** and share insights on tool creation and systems thinking
-
 ## 🌐 Connect with Me
 
 Feel free to reach out or connect with me through the following platforms:
