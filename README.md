@@ -24,6 +24,8 @@ I'm a game programmer with a background in computer science and animation, curre
 - Developed using a personal game engine
 - Focused on procedural systems and core gameplay mechanics/physics
 
+### 🚀 Runner
+
 ### 🧠 Escape Through the Wire *(Team Project)*
 - Stealth-strategy game where the player acts as the “man in the chair”
 - Designed hand-drawn path mechanics, jamming fields, and toggle-based interactions
@@ -52,9 +54,20 @@ As I continue to grow as a developer, I’m aiming to:
 - **Mentor junior developers** and foster inclusive, collaborative team environments
 - **Speak at conferences** and share insights on tool creation and systems thinking
 
-## 📫 Contact
+## 🌐 Connect with Me
 
-Feel free to reach out at **jscottwilkin@gmail.com** — I’m always open to connecting with fellow developers, designers, and creatives.
+Feel free to reach out or connect with me through the following platforms:
+
+- 🌍 **Portfolio**: [Jacob Wilkin's Website](https://sites.google.com/view/jacobwilkin/home)
+- 💼 **LinkedIn**: [Your LinkedIn Profile](#)
+- 📧 **Email**: [jscottwilkin@gmail.com](mailto:jscottwilkin@gmail.com)  — I’m always open to connecting with fellow developers, designers, and creatives.
+
+---
+
+## 📊 GitHub Stats
+
+![Jacob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 ---
 
