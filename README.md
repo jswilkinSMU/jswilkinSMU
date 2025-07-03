@@ -69,7 +69,7 @@ Feel free to reach out or connect with me through the following platforms:
 ## 📊 GitHub Stats
 
 ![Jacob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jswilkinSMU&show_icons=true&theme=radical)
-![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=jswilkinSMU&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=jswilkinSMU&layout=compact&theme=radical))
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jswilkinSMU&layout=compact&theme=radical)
 
 ---
 
