@@ -4,7 +4,7 @@
 
 🎮 Game Programmer | 🎓 SMU Guildhall Master's Student | 🧠 Systems Designer
 
-I'm a game programmer with a background in computer science and animation, currently pursuing my Master’s in Interactive Technology at SMU Guildhall.
+I'm a game developer with a background in computer science and animation, currently pursuing my Master’s in Interactive Technology at SMU Guildhall.
 
 ## 🧠 What I Do
 
@@ -34,13 +34,6 @@ I'm a game programmer with a background in computer science and animation, curre
 - Made with CPP and HLSL.
 - Based off the Run series from CoolmathGames.
 - Created UISystem in Engine, data driven through xml, and level management.
-
-### Escape Through the Wire *(Team Project)*
-- Stealth-strategy game where the player acts as the “man in the chair”.
-- Designed hand-drawn path mechanics, jamming fields, and toggle-based interactions.
-- Technologies: Unity | C#
-- Role: Programmer
-- Team Size: 4 Developers
 
 ## 🌐 Connect with Me
 
