@@ -1,4 +1,4 @@
-![Jacob Wilkin's Profile Banner](https://github.com/jswilkinSMU/jswilkinSMU/blob/main/anaimated%20lost%20sou1l.gif)
+![Jacob Wilkin's Profile Banner](https://github.com/jswilkinSMU/jswilkinSMU/blob/main/escapettw (1).gif)
 
 # 👋 Hi, I'm Jacob Wilkin
 
