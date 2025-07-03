@@ -4,7 +4,7 @@
 
 🎮 Game Programmer | 🎓 SMU Guildhall Master's Student | 🧠 Systems Designer
 
-I'm a game programmer with a background in computer science and animation, currently pursuing my Master’s in Game Development at SMU Guildhall. I specialize in gameplay systems, AI, and engine-level programming in C++, with a strong emphasis on performance, player experience, and cross-disciplinary collaboration.
+I'm a game programmer with a background in computer science and animation, currently pursuing my Master’s in Interactive Technology at SMU Guildhall.
 
 ## 🧠 What I Do
 
@@ -62,14 +62,14 @@ Feel free to reach out or connect with me through the following platforms:
 
 - 🌍 **Portfolio**: [Jacob Wilkin's Website](https://sites.google.com/view/jacobwilkin/home)
 - 💼 **LinkedIn**: [Jacob Wilkin's Linkedin profile](https://www.linkedin.com/in/jacob-wilkin-6ba91b231/)]
-- 📧 **Email**: [jscottwilkin@gmail.com](mailto:jscottwilkin@gmail.com)  — I’m always open to connecting with fellow developers, designers, and creatives.
+- 📧 **Email**: [jscottwilkin@gmail.com](mailto:jscottwilkin@gmail.com)
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Jacob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jswilkinSMU&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jswilkinSMU&layout=compact&theme=radical)
+![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=jswilkinSMU&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=jswilkinSMU&layout=compact&theme=radical))
 
 ---
 
