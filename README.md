@@ -1,3 +1,5 @@
+![Jacob Wilkin's Profile Banner]([https://raw.githubusercontent.com/jacobwilkin/jacobwilkin/main/images/hero-banner.png)
+
 # 👋 Hi, I'm Jacob Wilkin
 
 🎮 Game Programmer | 🎓 SMU Guildhall Master's Student | 🧠 Systems Designer
