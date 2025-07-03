@@ -59,7 +59,7 @@ As I continue to grow as a developer, I’m aiming to:
 Feel free to reach out or connect with me through the following platforms:
 
 - 🌍 **Portfolio**: [Jacob Wilkin's Website](https://sites.google.com/view/jacobwilkin/home)
-- 💼 **LinkedIn**: [Your LinkedIn Profile](#)
+- 💼 **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/jacob-wilkin-6ba91b231/)](#)
 - 📧 **Email**: [jscottwilkin@gmail.com](mailto:jscottwilkin@gmail.com)  — I’m always open to connecting with fellow developers, designers, and creatives.
 
 ---
