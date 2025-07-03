@@ -8,31 +8,38 @@ I'm a game programmer with a background in computer science and animation, curre
 
 ## 🧠 What I Do
 
-- Build core gameplay mechanics and real-time procedural systems
-- Design AI-driven behaviors and dynamic environments
-- Create custom tools that empower designers and streamline workflows
-- Approach development from both analytical and artistic perspectives
+- Build core gameplay mechanics and real-time procedural systems.
+- Design AI-driven behaviors and dynamic environments.
+- Approach development from both analytical and artistic perspectives.
 
 ## 🛠️ Technologies & Skills
 
-- **Languages:** C++, C#, Python
-- **Engines:** Unity, Unreal Engine
-- **Focus Areas:** Gameplay Programming, AI, Engine Development, Tool Creation
-- **Soft Skills:** Collaboration, Communication, Creative Problem Solving
+- **Languages:** C++, C#, C, HLSL, Java, and Python
+- **Game Engines:** Unity, Unreal Engine, and Personal Directx11 Game Engine
+- **Focus Areas:** Gameplay Programming, Animation, AI, and Physics
 
 ## 🎮 Projects
 
-### 🕹️ Starship *(Solo Project)*
-- Developed using a personal game engine
-- Focused on procedural systems and core gameplay mechanics/physics
+### Starship *(Solo Project)*
+- Developed using personal directx11 game engine created in Guildhall.
+- Made purely with C, no std library or modern CPP.
+- 2D Asteroid space shooter:
+  - Different Entity types
+  - Bullet firing
+  - Cosmetic debris
+  - Minimap, lives, and waves
 
-### 🚀 Runner
+### Runner *(Solo Project)*
+- Directed Focus Study using personal directx11 game engine created in Guildhall.
+- Made with CPP and HLSL.
+- Based off the Run series from CoolmathGames.
+- Created UISystem in Engine, data driven through xml, and level management.
 
-### 🧠 Escape Through the Wire *(Team Project)*
-- Stealth-strategy game where the player acts as the “man in the chair”
-- Designed hand-drawn path mechanics, jamming fields, and toggle-based interactions
-- Technologies: Unity | C# | UE Blueprints
-- Role: Lead Programmer
+### Escape Through the Wire *(Team Project)*
+- Stealth-strategy game where the player acts as the “man in the chair”.
+- Designed hand-drawn path mechanics, jamming fields, and toggle-based interactions.
+- Technologies: Unity | C#
+- Role: Programmer
 - Team Size: 4 Developers
 
 ## 🌐 Connect with Me
