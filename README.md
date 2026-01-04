@@ -18,23 +18,6 @@ I'm a game developer with a background in computer science and animation, curren
 - **Game Engines:** Unity, Unreal Engine, and Personal Directx11 Game Engine
 - **Focus Areas:** Gameplay Programming, Animation, AI, and Physics
 
-## 🎮 Projects
-
-### Starship *(Solo Project)*
-- Developed using personal directx11 game engine created in Guildhall.
-- Made purely with C, no std library or modern CPP.
-- 2D Asteroid space shooter:
-  - Different Entity types
-  - Bullet firing
-  - Cosmetic debris
-  - Minimap, lives, and waves
-
-### Runner *(Solo Project)*
-- Directed Focus Study using personal directx11 game engine created in Guildhall.
-- Made with CPP and HLSL.
-- Based off the Run series from CoolmathGames.
-- Created UISystem in Engine, data driven through xml, and level management.
-
 ## 🌐 Connect with Me
 
 Feel free to reach out or connect with me through the following platforms:
