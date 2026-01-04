@@ -10,12 +10,13 @@ I'm a game developer with a background in computer science and animation, curren
 
 - Build core gameplay mechanics and real-time procedural systems.
 - Design AI-driven behaviors and dynamic environments.
+- Largely focused and interested in Animation and Gameplay programming.
 - Approach development from both analytical and artistic perspectives.
 
 ## 🛠️ Technologies & Skills
 
-- **Languages:** C++, C#, C, HLSL, Java, and Python
-- **Game Engines:** Unity, Unreal Engine, and Personal Directx11 Game Engine
+- **Languages:** C++, C#, C, HLSL, Unreal Blueprints, Java, and Python
+- **Game Engines:** Unity, Unreal Engine, and Personal Directx11 Game Engine (Wilkin Engine)
 - **Focus Areas:** Gameplay Programming, Animation, AI, and Physics
 
 ## 🌐 Connect with Me
