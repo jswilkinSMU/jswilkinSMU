@@ -29,11 +29,4 @@ Feel free to reach out or connect with me through the following platforms:
 
 ---
 
-## 📊 GitHub Stats
-
-![Jacob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jswilkinSMU&theme=algolia&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jswilkinSMU&theme=algolia&show_icons=true)
-
----
-
 Thank you for visiting my profile!
