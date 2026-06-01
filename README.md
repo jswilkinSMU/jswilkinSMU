@@ -4,7 +4,7 @@
 
 🎮 Game Programmer 
 
-I'm a game developer with a background in computer science and animation, currently pursuing my Master’s in Interactive Technology at SMU Guildhall.
+I'm a game developer with a background in computer science and animation, with a Master’s in Interactive Technology at SMU Guildhall.
 
 ## 🧠 What I Do
 
