@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Jacob Wilkin
 
-🎮 Game Programmer | 🎓 SMU Guildhall Master's Student | 🧠 Systems Designer
+🎮 Game Programmer 
 
 I'm a game developer with a background in computer science and animation, currently pursuing my Master’s in Interactive Technology at SMU Guildhall.
 
